@@ -19,8 +19,8 @@
 <a href="https://linkedin.com/in/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16444308/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/codechef.a60280cb.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/Codeforces.colored.svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/leetcode.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mayank2793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mayank2793" height="30" width="40" /></a>
 </p>
 
