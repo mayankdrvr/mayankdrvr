@@ -32,10 +32,10 @@
 
 
 
-<p align="left">&nbsp;<img align="left"  height="180em" src="https://github-readme-stats.vercel.app/api?username=mayankdrvr&show_icons=true&locale=en&theme=blue-green" alt="mayankdrvr" /></p>
+<p align="left">&nbsp;<img align="left"  height="150em" src="https://github-readme-stats.vercel.app/api?username=mayankdrvr&show_icons=true&locale=en&theme=blue-green" alt="mayankdrvr" /></p>
 
-<p align="right"><img align="right"  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdrvr&theme=blue-green" alt="mayankdrvr" /></p>
+<p align="right"><img align="right"  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdrvr&theme=blue-green" alt="mayankdrvr" /></p>
 
-<p align="center"><img align="center"  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdrvr&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mayankdrvr" /></p>
+<p align="center"><img align="center"  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdrvr&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mayankdrvr" /></p>
 
 <a href="https://github.com/mayankdrvr/github-readme-activity-graph"><img alt="Mayank Arora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mayankdrvr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
