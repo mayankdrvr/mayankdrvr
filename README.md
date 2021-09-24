@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mayank Arora</h1>
-<h3 align="center">A web development learner</h3>
+<h2 align="center">A web development learner</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayankdrvr&label=Profile%20views&color=0e75b6&style=flat" alt="mayankdrvr" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankdrvr&theme=dracula&no-frame=true" alt="mayankdrvr" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Blog Website**
+<h3 align="center">- 🔭 I’m currently working on **Full Stack Blog Website**</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+<h4 align="center">- 🌱 I’m currently learning **MERN Stack**</h4>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+<h5 align="center">- 👯 I’m looking to collaborate on **Open Source Projects**</h5>
 
-- 💬 Ask me about **Data Structures & Algorithms in C++**
+<h6 align="center">- 💬 Ask me about **Data Structures & Algorithms in C++**</h6>
 
-- 📫 How to reach me **mayankarora.email@gmail.com**
+<h7 align="center">- 📫 How to reach me **mayankarora.email@gmail.com** </h7>
 
-- ⚡ Fun fact **I like listening to classical music**
+<h8 align="center">- ⚡ Fun fact **I like listening to classical music**</h8>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -32,10 +32,10 @@
 
 
 
-<p align="left">&nbsp;<img align="left"  height="150em" src="https://github-readme-stats.vercel.app/api?username=mayankdrvr&show_icons=true&locale=en&theme=blue-green" alt="mayankdrvr" /></p>
+<p align="center">&nbsp;<img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api?username=mayankdrvr&show_icons=true&locale=en&theme=blue-green" alt="mayankdrvr" /></p>
 
-<p align="right">&nbsp;<img align="right"  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdrvr&theme=blue-green" alt="mayankdrvr" /></p>
+<p align="center">&nbsp;<img align="center"  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdrvr&theme=blue-green" alt="mayankdrvr" /></p>
 
-<p align="center">&nbsp;<img align="center"  height="90em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdrvr&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mayankdrvr" /></p>
+<p align="center">&nbsp;<img align="center"  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdrvr&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mayankdrvr" /></p>
 
 <a href="https://github.com/mayankdrvr/github-readme-activity-graph"><img alt="Mayank Arora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mayankdrvr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
