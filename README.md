@@ -14,7 +14,7 @@
 - 📫 How to reach me **mayankarora.email@gmail.com** 
 - ⚡ Fun fact **I like listening to classical music**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Profiles:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16444308/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mayankdv" height="30" width="40" /></a>
