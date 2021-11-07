@@ -8,11 +8,9 @@
 <img align="right"  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdrvr&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mayankdrvr" />
 
 - 🔭 I’m currently working on **Full Stack Blog Website**
-- 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **Open Source Projects** 
+- 🌱 I’m currently learning **MERN Stack** 
 - 💬 Ask me about **Data Structures & Algorithms in C++** 
 - 📫 How to reach me **mayankarora.email@gmail.com** 
-<-- ⚡ **I like listening to classical music** -->
 
 <h3 align="center">Profiles:</h3>
 <p align="center">
