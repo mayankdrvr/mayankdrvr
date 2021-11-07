@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on **Full Stack Blog Website**
 - 🌱 I’m currently learning **MERN Stack**
-<! --- - 👯 I’m looking to collaborate on **Open Source Projects** --->
+- 👯 I’m looking to collaborate on **Open Source Projects** 
 - 💬 Ask me about **Data Structures & Algorithms in C++** 
 - 📫 How to reach me **mayankarora.email@gmail.com** 
-<--- - ⚡ **I like listening to classical music** --->
+<-- - ⚡ **I like listening to classical music** -->
 
 <h3 align="center">Profiles:</h3>
 <p align="center">
