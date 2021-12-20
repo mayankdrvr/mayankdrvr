@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a **Full Stack Website Project**
 - 🌱 I’m currently learning **MERN Stack Development** 
 - 💬 Ask me about **Data Structures & Algorithms in C++** 
-- 📫 How to reach me **mayankarora.email@gmail.com** 
+- 📫 Reach me at **mayankarora.email@gmail.com** 
 
 <h3 align="center">Profiles:</h3>
 <p align="center">
