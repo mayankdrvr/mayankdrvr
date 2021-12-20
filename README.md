@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mayank Arora</h1>
-<h2 align="center">I work on web development projects</h2>
+<!-- <h1 align="center">Hi 👋, I'm Mayank Arora</h1> -->
+<h2 align="center">Working on web development projects</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayankdrvr&label=Profile%20views&color=0e75b6&style=flat" alt="mayankdrvr" /> </p>
 
