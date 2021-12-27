@@ -8,7 +8,7 @@
 <img align="right"  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdrvr&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mayankdrvr" />
 
 - 🔭 I’m currently working on a **Full Stack Website Project**
-- 🌱 I’m currently learning **MERN Stack Development** 
+- 🌱 I’m currently learning **Full Stack Web Development** 
 - 💬 Ask me about **Data Structures & Algorithms in C++** 
 - 📫 Reach me at **mayankarora.email@gmail.com** 
 
