@@ -14,7 +14,7 @@
 
 <h3 align="center">Profiles:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayankdv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/codechef.a60280cb.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/Codeforces.colored.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/leetcode.svg" alt="mayankdv" height="30" width="40" /></a>
