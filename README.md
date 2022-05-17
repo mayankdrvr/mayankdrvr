@@ -16,9 +16,9 @@
 <p align="center">
 <a href="https://linkedin.com/in/mayankdv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/codechef.a60280cb.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/Codeforces.colored.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/leetcode.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mayankdv" target="blank"><img align="center" src="https://www.linkpicture.com/q/1_qEyZ2IU41N3LwrWXV43qg.jpeg" alt="@mayankdv" height="25" width="75" /></a>
+<a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/1275a6fccacb4567eebe35b3a88efc0067bdfa70/icons/Codeforces.colored.svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/1275a6fccacb4567eebe35b3a88efc0067bdfa70/icons/leetcode2.svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/main/icons/hackerearth.jpg" alt="@mayankdv" height="25" width="75" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
