@@ -14,11 +14,11 @@
 
 <h3 align="center">Profiles:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mayankdv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/49fd43bd79c6b37ec2680581559fc4bc87380ef1/icons/icons8-codechef%20(1).svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/1275a6fccacb4567eebe35b3a88efc0067bdfa70/icons/Codeforces.colored.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/1275a6fccacb4567eebe35b3a88efc0067bdfa70/icons/leetcode2.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/main/icons/hackerearth.jpg" alt="@mayankdv" height="25" width="75" /></a>
+<a href="https://linkedin.com/in/mayankdv" target="_blank"><img align="center" src="https://drive.google.com/uc?export=download&id=1ib6BR6_E7MZRbRvfwtl3yTjPAnKH2ct_" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mayankdv" target="blank"><img align="center" src="https://drive.google.com/uc?export=download&id=1hW3G2ecGRmawveVaTbcvsQKP3h15QZmG" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://drive.google.com/uc?export=download&id=126vsiu3Xm-LpGhwZvCEEclLvXPUymJAi" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://drive.google.com/uc?export=download&id=1GI-8I0mTMn1VXYL-2p77_a0cY_xf6rAi" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mayankdv" target="blank"><img align="center" src="https://drive.google.com/uc?export=download&id=1krqg3rmMbCdXH6zzfsu5ekyl9pSZ64bh" alt="@mayankdv" height="25" width="75" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
