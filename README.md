@@ -30,5 +30,8 @@
 <img align="left"  height="150em" src="https://github-readme-stats.vercel.app/api?username=mayankdrvr&show_icons=true&locale=en&theme=blue-green" alt="mayankdrvr" /></p>
 
 <img align="right"  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdrvr&theme=blue-green" alt="mayankdrvr" /></p>
+(https://github-readme-activity-graph.cyclic.app/graph?username=mayankdrvr&bg_color=0e3262&color=0684e5&line=3c908e&point=0033ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/mayankdrvr/github-readme-activity-graph"><img alt="Mayank Arora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mayankdrvr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- (https://github-readme-activity-graph.cyclic.app/graph?username=mayankdrvr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!-- <a href="https://github.com/mayankdrvr/github-readme-activity-graph"><img alt="Mayank Arora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mayankdrvr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
