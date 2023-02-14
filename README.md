@@ -14,10 +14,10 @@
 
 <h3 align="center">Profiles:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mayankdv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/49fd43bd79c6b37ec2680581559fc4bc87380ef1/icons/icons8-codechef%20(1).svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayankdv" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mayankdv" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/1275a6fccacb4567eebe35b3a88efc0067bdfa70/icons/Codeforces.colored.svg" alt="mayankdv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/1275a6fccacb4567eebe35b3a88efc0067bdfa70/icons/leetcode2.svg" alt="mayankdv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mayankdv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="mayankdv" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mayankdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/main/icons/hackerearth.jpg" alt="@mayankdv" height="25" width="75" /></a>
 </p>
 
