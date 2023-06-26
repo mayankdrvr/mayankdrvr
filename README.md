@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on a **Full Stack Website Project**
 - 🌱 I’m currently learning **Full Stack Web Development** 
-- 💬 Ask me about **Data Structures & Algorithms in C++** 
+- 💬 Ask me about **Data Structures & Algorithms in C++**
+- 💪 I like working out at the Gym**
 - 📫 Reach me at **mayankarora.email@gmail.com** 
 
 <h3 align="center">Profiles:</h3>
