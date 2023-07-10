@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a **Full Stack Website Project**
 - 🌱 I’m currently learning **Full Stack Web Development** 
 - 💬 Ask me about **Data Structures & Algorithms in C++**
-- 💪 I like working out at Gym just for general fitness**
+- 💪 I like doing basic workout at the Gym just for general fitness**
 - 📫 Reach me at **mayankarora.email@gmail.com** 
 
 <h3 align="center">Profiles:</h3>
