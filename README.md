@@ -38,5 +38,4 @@
 <!-- (https://github-readme-activity-graph.cyclic.app/graph?username=mayankdrvr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 ![Codewars](https://github.r2v.ch/codewars?user=mayankdv&stroke=green)
 
-**I conform to the legally binding GitHub terms of service when using GitHub services given at https://docs.github.com/en/site-policy/github-terms/github-terms-of-service**
 <!-- <a href="https://github.com/mayankdrvr/github-readme-activity-graph"><img alt="Mayank Arora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mayankdrvr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
