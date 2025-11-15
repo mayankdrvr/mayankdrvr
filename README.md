@@ -7,12 +7,11 @@
 
 <img align="right"  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdrvr&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mayankdrvr" />
 
-- 🔭 I’m currently working on a **Full Stack Website Project**
-- 🌱 I’m currently learning **Full Stack Web Development** 
-- 💬 Ask me about **Data Structures & Algorithms in C++**
+- 🔭 I’m currently working on a *Java Spring Boot Project**
+- 🌱 I’m currently learning **Java Spring Boot Development** 
+- 💬 Ask me about **Data Structures & Algorithms in Java**
 - 💪 I like doing basic light workout at the Gym just for general fitness
 - 📫 Reach me at **mayankarora.email@gmail.com**
-- 📫 Reach me at my office email at **webservices@arshainfra.com**
 
 <h3 align="center">Profiles:</h3>
 <p align="center">
