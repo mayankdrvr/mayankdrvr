@@ -29,8 +29,6 @@
 <a href="https://render.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="render" width="40" height="40"/> </a>  
 </p>
 
-  
-
 <!-- <img align="left"  height="150em" src="https://github-readme-stats.vercel.app/api?username=mayankdrvr&show_icons=true&locale=en&theme=blue-green" alt="mayankdrvr" /></p> -->
 
 <!--  <img align="right"  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdrvr&theme=blue-green" alt="mayankdrvr" /></p> -->
