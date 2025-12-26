@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on a **Java Spring Boot Project**
 - 🌱 I’m currently learning **Java Spring Boot Development** 
 - 💬 Ask me about **Data Structures & Algorithms in Java**
-- 📺 I like watching wholesome sitcoms
 - 📫 Reach me at **mayankarora.email@gmail.com**
 
 <h3 align="center">Profiles:</h3>
